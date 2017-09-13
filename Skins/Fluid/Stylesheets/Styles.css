@@ -347,7 +347,7 @@ nav.title-bar .menu-icon
 
 .title-bar-container
 {
-	z-index: 10002;
+	z-index: 2;
 }
 
 /* Topbar Menu Functionality Styles */
